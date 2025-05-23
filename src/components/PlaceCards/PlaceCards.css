@@ -1,0 +1,30 @@
+.pl-h{
+    min-height: 300px;
+    height: fit-content;
+    flex-wrap: wrap;
+    margin: 0 10px;
+}
+.pl-title{
+    margin-top:30px;
+    margin-bottom: 5px;
+    margin-left: 80px;
+}
+.c-data{
+    display: flex;
+    justify-content: center;
+}
+
+#cat-selector
+{
+    /* margin-left: 10px; */
+    width: 140px;
+}
+
+#change-drop{
+    border: 1px solid #EC5539;
+    color: #EC5539;
+    height: 38px;
+    border-left: none;
+    border-top-left-radius: 0px ;
+    border-bottom-left-radius: 0px ;
+}

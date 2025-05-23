@@ -1,0 +1,19 @@
+btn-disabled{
+    background-color: grey !important;
+    color: grey !important;
+}
+
+.btn-disabled{
+    background-color: grey !important;
+    color: grey !important;
+}
+
+btn:disabled{
+    background-color: grey !important;
+    color: grey !important;
+}
+
+.btn:disabled{
+    background-color: grey !important;
+    color: grey !important;
+}

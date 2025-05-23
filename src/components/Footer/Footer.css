@@ -1,0 +1,16 @@
+.up-footer {
+  display: flex;
+  justify-content: center;
+  background: #eaddcf;
+  color: #ec5539;
+  font-size: 15px;
+  padding: 5px;
+}
+.low-footer{
+    background-color: #ec5539;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 2px;
+    font-size: 10px;
+}

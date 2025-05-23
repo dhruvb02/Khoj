@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Khand:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap");
+
+body {
+  margin: 0;
+  padding: 0;
+}
+*{
+  font-family: 'Inter';
+  font-weight: 300px;
+}
+.navb {
+  background: #eaddcf;
+  height: 110px;
+  display: block;
+}
+.nav-title p {
+  font-family: "Khand";
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 61px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #ec5539;
+}
+.nav-first {
+  height: 80px;
+  margin: 0px 100px;
+}
+p {
+  margin: 0;
+}
+#signIn {
+  border: 1px solid #ec5539;
+  border-radius: 5px;
+  color: #ec5539;
+  background-color: #eaddcf;
+  font-family: "Inter";
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: center;
+  margin-right: 10px;
+  height: 35px;
+}
+#signIn:hover {
+  background-color: #f6f3f0;
+  transition: 0.7s;
+}
+#nav-post {
+  background: #ec5539;
+  color: #f6f3f0;
+  font-family: Inter;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: center;
+  border: 0px;
+  width: 95px;
+  height: 35px;
+  border-radius: 6px;
+}
+.nav-second{
+  margin-top: 5px;
+  margin-left: 80px;
+}
+.nav-second a{
+  text-decoration: none;
+  padding: 0;
+  color: #ec5539;
+}
+.nav-item {
+  height: 25px;
+  text-align: center;
+  /* justify-content: center; */
+  /* display: flex; */
+  width: 80px;
+  padding: 0;
+  background: #eaddcf;
+}
+/* .active-1{
+  color: #ec5539;
+  background-color:#f6f3f0 ;
+}
+.bor{
+  border:1px solid #ec5539 ;
+  border-radius: 6px 6px 0px 0px;
+} */
+.nav-second a:hover{
+  color: #ec5539;
+}

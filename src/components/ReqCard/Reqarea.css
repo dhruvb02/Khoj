@@ -1,0 +1,19 @@
+.reqall{
+    display: flex;
+    justify-content: space-around;
+    margin: 0 10px;
+    margin-left: 7%;
+    flex-wrap: wrap;
+    height: fit-content;
+}
+.c-data{
+    flex-basis: 30%;
+}
+.req-ah{
+    margin-bottom: 20px;
+}
+.req-area{
+    margin-bottom: 30px;
+    min-height:45vh;
+    height: fit-content;
+}

@@ -1,0 +1,26 @@
+.cat-h{
+    font-family:'Inter';
+font-size: 20px;
+font-weight: 600;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+color: #EC5539;
+margin-left: 85px;
+margin-top: 40px;
+
+
+}
+.cat-icons{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+    flex-wrap: wrap;
+}
+.cat-icons div{
+    text-align: center;
+}
+.cat-icons div p{
+    margin-top: 6px;
+    font-weight: 500;
+}

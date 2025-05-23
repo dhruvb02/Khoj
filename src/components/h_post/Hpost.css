@@ -1,0 +1,16 @@
+.h-cont{
+    justify-content: center;
+    display: inline-flex;
+    width: 85%;
+    margin-top: 30px;
+    /* margin-left: 80px; */
+    border: 1px solid #EC5539;
+    align-items: center;
+    color: #EC5539;
+    font-weight: 200;
+    border-radius: 4px;
+}
+.h-btn{
+    height: 30px;
+    width: 90px;
+}

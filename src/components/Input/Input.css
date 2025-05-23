@@ -1,0 +1,35 @@
+.post-heading {
+  width: 476px;
+  height: 29px;
+  left: 85px;
+  top: 249px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  /* identical to box height */
+
+  color: #ec5539;
+}
+
+.input-form{
+    margin: 80px 40px;
+}
+
+.post-heading{
+  padding-bottom: 50px;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+  background-color: #ec5539; 
+  border: none;
+}
+
+
+#SubmitAd {
+  font-family: Inter;
+  font-size: 15px;
+  font-weight: 700;
+}

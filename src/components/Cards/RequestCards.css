@@ -1,0 +1,36 @@
+.req-body {
+  height: fit-content;
+  width: fit-content;
+  border: 1px solid #00000042;
+  border-radius: 5px;
+  /* margin-left: 80px; */
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  width: 300px;
+  max-width: 400px;
+}
+.req-title p {
+  font-size: 16px;
+  font-weight: 600;
+}
+.req-cat p {
+  color: #8f8f8f;
+  font-size: 13px;
+}
+.req-des {
+  color: #8f8f8f;
+  font-size: small;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+.req-body button{
+    border: 1px solid #EC5539;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 12px;
+    color: #EC5539;
+    width: 190px;
+    height: 25px;
+}
